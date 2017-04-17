@@ -60,9 +60,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.classpath
-.project
-.settings/*
 .svn/*
 build/*
 *.bak
